@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.left_box{
+  background-color: #3E2D21;
+  width: 30vw;
+  height: 30vh;
+}
+
+.right_box{
+  background-color: #573F2E;
+  width: 70vw;
+  height: 30vh;
+}
+
+.box{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.box1{
+  background-color: #FAEDED;
+  width: 30vw;
+  height: 70vh;
+}
+
+.box2{
+  background-color: #6A4021;
+  width: 70vw;
+  height: 70%;
+}
+
+.box3{
+  background-color: #3E2D21;
+  width: 70vw;
+  height: 30%;
+}
+
+.down_box{
+  display: flex;
+  flex-direction: row;
+}
